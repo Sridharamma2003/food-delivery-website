@@ -1,4 +1,4 @@
-# 🍔 Food Delivery App
+# 🍔 Food Delivery Website
 
 A full-stack food delivery web application like Zomato/Swiggy – built using **MERN stack** (MongoDB, Express, React, Node.js). 
 Users can browse restaurants, place orders, make payments, and track deliveries.
